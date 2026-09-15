@@ -83,9 +83,15 @@ The exercises covered launching and managing AWS resources, configuring web serv
 - How AMIs can be used to create new instances from an existing configuration
 - How to document practical cloud projects using GitHub
 
-## Screenshots
+## Documentation
 
-Screenshots demonstrating the completed tasks will be added to this repository.
+Detailed evidence and screenshots for each day are available below:
+
+- [Day 1 — EC2](./Day%201%20-%20Task.pdf)
+- [Day 2 — EC2 & AMI](./Day%202%20-%20Task.pdf)
+- [Day 3 — Lightsail & WordPress](./Day%203%20-%20Task.pdf)
+- [Day 4 — Elastic IP & Security](./Day%204%20-%20Task.pdf)
+- [Day 5 — Practical Tasks](./Day%205%20-%20Task.pdf)
 
 ## Note
 
